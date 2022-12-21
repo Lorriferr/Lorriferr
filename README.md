@@ -7,9 +7,9 @@
 <body>
 <div>
 <strong>Hello World</strong>
-Build a new <em>fav</em>thing<br>
+Build a new <em>fav</em>thing
     <h4>Courtesy</h4>
-    <strong>Github</strong><br>
+    <strong>Github</strong>
         <em>Vias</em>
 @ConnectPro
 End Message--
