@@ -6,7 +6,7 @@
 <body>
 <div>
 <strong>Hello World</strong>
-Build a new <em>fav</em>thing
+Build a new <em>fav</em> thing
     <h4>Courtesy</h4>
     <strong>Github</strong>
         <em>Vias</em>
