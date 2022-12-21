@@ -1,6 +1,7 @@
-<div>
+<!DOCTYPE HTML>
 <h1>Introductory</h1>
--<p><b>Hello World</p> @ConnectPro</b>
+-<p><b>Hello World</b></p>
+<p><i>@ConnectPro</i><p/>
 End Message--
 </div>
 <!---
