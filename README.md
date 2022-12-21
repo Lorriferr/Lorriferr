@@ -2,8 +2,7 @@
 <html>
 <head>
 <h1>Introductory</h1>
-</head>
-<title>Customary Salute</title>
+    </head>
 <body>
 <div>
 <strong>Hello World</strong>
