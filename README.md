@@ -1,6 +1,6 @@
 <div>
 <h1>Introductory</h1>
--<b>Hello World @ConnectPro</b>
+-<p><b>Hello World</p> @ConnectPro</b>
 End Message--
 </div>
 <!---
