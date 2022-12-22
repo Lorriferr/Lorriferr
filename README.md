@@ -9,7 +9,7 @@
 Build a new <em>fav</em> thing
 <ul>
     <h4>Courtesy</h4>
-    <strong>Github</strong>
+    <strong>Github</strong><br>
         <em>Vias</em>
         </ul>
         <p>
