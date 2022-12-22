@@ -12,7 +12,8 @@ Build a new <em>fav</em> thing
     <strong>Github</strong>
         <em>Vias</em>
         </ul>
-@ConnectPro
+        <p>
+@ConnectPro </p>
 End Message--
 </div>
 </body>
